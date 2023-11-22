@@ -6,6 +6,10 @@ This is another exercise from Factoria F5 bootcamp. The goal is to build a simpl
 
 https://markwebdeveloper.github.io/Responsive-Image-Gallery/
 
+## Screenshots
+
+![Screenshot](src/assets/screenshots/screenshot-desktop.png)
+
 ## Dev Dependencies
 
 - Vite [https://vitejs.dev/]
